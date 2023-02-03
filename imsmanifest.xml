@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5ud9tDSCTZB" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Features of Microsoft Teams - Manage Meetings</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Features_of_Microsoft_Teams_-_Manage_Meetings_ORG">
+    <organization identifier="Features_of_Microsoft_Teams_-_Manage_Meetings_ORG">
+      <title>Features of Microsoft Teams - Manage Meetings</title>
+      <item identifier="Features_of_Microsoft_Teams_-_Manage_Meetings_SCO" isvisible="true" identifierref="__5ud9tDSCTZB_RES">
+        <title>Features of Microsoft Teams - Manage Meetings</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5ud9tDSCTZB_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6nJ7O1m4LBX_P_0_0_1806_1076.png" />
+      <file href="mobile/63Tp3MHQr2y.png" />
+      <file href="story_content/6paxReE0YTU_44100_48_0.mp3" />
+      <file href="story_content/6BDi700meTm_44100_48_0.mp3" />
+      <file href="mobile/5oWzSiGqk09.png" />
+      <file href="story_content/5WYW5ngDhj9_44100_48_0.mp3" />
+      <file href="story_content/6F3UId8n2jN_44100_48_0.mp3" />
+      <file href="story_content/69BMTvcGveX_44100_48_0.mp3" />
+      <file href="story_content/6nt7sIuVsnk_44100_48_0.mp3" />
+      <file href="story_content/6rFn5T5T2EY_44100_48_0.mp3" />
+      <file href="mobile/5WLM9xVDdwX.png" />
+      <file href="mobile/6r9d1OVXbSr_P_275_0_444_459.png" />
+      <file href="story_content/6DeOid1ot9X_44100_48_0.mp3" />
+      <file href="story_content/5XXy2VUXukK_44100_48_0.mp3" />
+      <file href="story_content/5bBBp95es24_44100_48_0.mp3" />
+      <file href="mobile/6oBUD2Pn3XQ_P_395_0_1326_1313.jpg" />
+      <file href="mobile/5xPpg6qJ6yV_P_384_0_1372_1364.jpg" />
+      <file href="mobile/6b4cOf31ptK_P_409_11_1485_1478.jpg" />
+      <file href="mobile/6SkBV2jAV09.png" />
+      <file href="mobile/5iQQJ5r6CdT.png" />
+      <file href="mobile/5YBusmF0RDX.png" />
+      <file href="story_content/6QBnzgO6hdY_44100_48_0.mp3" />
+      <file href="mobile/5ebpOn4pkWX.png" />
+      <file href="story_content/6oS7oLtp2CK_44100_48_0.mp3" />
+      <file href="story_content/6gSS1gagdzF_44100_48_0.mp3" />
+      <file href="story_content/6LVjlRrDOHx_44100_48_0.mp3" />
+      <file href="story_content/6UEa4M04yT6_44100_48_0.mp3" />
+      <file href="story_content/6Bemj1Zr751_44100_48_0.mp3" />
+      <file href="story_content/66IqGfB3JEG_44100_48_0.mp3" />
+      <file href="story_content/6IOZnxZOWzD_44100_48_0.mp3" />
+      <file href="story_content/6JSf2RgcTDA_44100_48_0.mp3" />
+      <file href="story_content/69JdRs97QEt_44100_48_0.mp3" />
+      <file href="story_content/68cIvlxz8jP_44100_48_0.mp3" />
+      <file href="story_content/6brXDHehmgy_44100_48_0.mp3" />
+      <file href="story_content/5oEM6YcWdgC_44100_48_0.mp3" />
+      <file href="mobile/6EHxffe8Wk0.png" />
+      <file href="mobile/5uixvemrSc6.png" />
+      <file href="mobile/5ZIS2H9SI4v.png" />
+      <file href="mobile/5qz8h1IDGVT.png" />
+      <file href="mobile/5YTYoWTEh0K.png" />
+      <file href="mobile/6DmfFBRC3Xr.png" />
+      <file href="mobile/6Dh3yGBFPXy.png" />
+      <file href="story_content/5aK1mbh8ByB_44100_48_0.mp3" />
+      <file href="story_content/65F2eqf5iw6_44100_48_0.mp3" />
+      <file href="story_content/5zMIcPy1Eyh_44100_48_0.mp3" />
+      <file href="mobile/6lixBstGLwS.png" />
+      <file href="mobile/6oLzWOypO1A.png" />
+      <file href="mobile/5lHaVSxlAPN.png" />
+      <file href="mobile/5yhNnhNo0Cu.png" />
+      <file href="mobile/64A995oMh3t.png" />
+      <file href="mobile/5rBPZjqFQOu.png" />
+      <file href="story_content/69QaSosPdSr_44100_48_0.mp3" />
+      <file href="story_content/6KpZNV5rGbJ_44100_48_0.mp3" />
+      <file href="mobile/6DcZojzfHtV.png" />
+      <file href="story_content/6eXJaAS8avk_44100_48_0.mp3" />
+      <file href="story_content/6NOdXQVzHGH_44100_48_0.mp3" />
+      <file href="story_content/6TFKCxnS7dS_44100_48_0.mp3" />
+      <file href="story_content/6KTEUFAPkyT_44100_48_0.mp3" />
+      <file href="story_content/5VMQqtOsEzl_44100_48_0.mp3" />
+      <file href="mobile/6U3Hf7oIkKG_P_394_0_523_480.png" />
+      <file href="story_content/5u0MvkSsidk_44100_48_0.mp3" />
+      <file href="mobile/5iCIBKnlmOe_P_474_0_458_421.png" />
+      <file href="mobile/5gUv2WBtwKj_P_436_0_504_459.png" />
+      <file href="mobile/5rXlUBlNsOf_P_80_0_481_441.png" />
+      <file href="mobile/5xhNpBJjNOI_P_59_0_497_457.png" />
+      <file href="mobile/6BpkJG2Z7OJ_P_162_0_529_487.png" />
+      <file href="mobile/6fxNkotglMD_P_452_0_478_440.png" />
+      <file href="story_content/6OASLoP1R7n_44100_48_0.mp3" />
+      <file href="story_content/6HArq38auoE_44100_48_0.mp3" />
+      <file href="story_content/5v2kyEfTn1S_44100_48_0.mp3" />
+      <file href="story_content/5vvXmRfl3CO_44100_48_0.mp3" />
+      <file href="story_content/5zpQYRvuhJN_44100_48_0.mp3" />
+      <file href="story_content/5mgme5z5fE1_44100_48_0.mp3" />
+      <file href="story_content/6PVKcM2IFO7_44100_48_0.mp3" />
+      <file href="story_content/6620dyY9t3I_44100_48_0.mp3" />
+      <file href="mobile/673pAyfR0Ub_P_250_0_515_473.png" />
+      <file href="mobile/5cwZpuN16ql_P_247_0_508_467.png" />
+      <file href="mobile/6q5Yqx8EJfZ_P_422_4_506_464.png" />
+      <file href="mobile/5uqjfem2jG1_P_459_0_478_439.png" />
+      <file href="mobile/6pEpECTphHB_P_457_0_483_444.png" />
+      <file href="story_content/63O8XxuSfWO_44100_48_0.mp3" />
+      <file href="story_content/621EHxvoOtO_44100_48_0.mp3" />
+      <file href="story_content/5uNKTWHUDuD_44100_48_0.mp3" />
+      <file href="story_content/6BiVKZeUboB_44100_48_0.mp3" />
+      <file href="story_content/6ak7SzTMY1a_44100_48_0.mp3" />
+      <file href="story_content/6bL3PKAO1ux_44100_48_0.mp3" />
+      <file href="mobile/6INYWY7FYHJ_P_0_0_766_428.png" />
+      <file href="story_content/6XQrxAF658L_44100_48_0.mp3" />
+      <file href="mobile/6dgEIK4Y5CE_P_0_0_849_475.png" />
+      <file href="story_content/5e43XUsw3gH_44100_48_0.mp3" />
+      <file href="story_content/6e7KqBdMjbx_44100_48_0.mp3" />
+      <file href="story_content/6I4eht9Ubj2_44100_48_0.mp3" />
+      <file href="story_content/6Masnzy79wI_44100_48_0.mp3" />
+      <file href="mobile/6N38hEwRdAG_P_381_0_1398_1364.jpg" />
+      <file href="mobile/6p6zXcirzHo_P_0_0_1779_783.jpg" />
+      <file href="story_content/6VZF1IrxNvp_44100_48_0.mp3" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5h0NjKOefIA.js" />
+      <file href="html5/data/js/5zyN5eTE6Vv.js" />
+      <file href="html5/data/js/692BHcTy5gf.js" />
+      <file href="html5/data/js/6HJCU5KoZgx.js" />
+      <file href="html5/data/js/6jopodRnF3I.js" />
+      <file href="html5/data/js/6jtJR1vARTM.js" />
+      <file href="html5/data/js/6JUfNkjFXzj.js" />
+      <file href="html5/data/js/6nObYpMVH4k.js" />
+      <file href="html5/data/js/6o1KpPPdUGW.js" />
+      <file href="html5/data/js/6qMiXoVhl5i.js" />
+      <file href="html5/data/js/6Vx5XKzJZcD.js" />
+      <file href="html5/data/js/6Yg5coBRPUo.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/hls/hls.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
